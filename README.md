@@ -13,6 +13,10 @@ This project is built using the following technologies:
     Express: A web application framework for Node.js, utilized to handle routing, middleware, and server-side operations.
     API Integration: CoinTrack integrates with various cryptocurrency APIs to fetch real-time data.
     Asynchronous JavaScript: Leveraged to handle API calls and manage data retrieval efficiently.
+    
+## MarketCap API Key
+
+To demonstrate integration with the MarketCap API, an API key is included in the project. 
 
 Project Status
 
